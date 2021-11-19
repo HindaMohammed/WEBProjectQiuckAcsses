@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROGRAMS</title>
+    <link rel="stylesheet" href="../css/programm.css">
+
+</head>
+
+
+<body>
+<?php include('header.html'); ?>
+    <p class="start_p" >This section will be devoted to the necessary software for the course material,
+        and we will work hard to provide the educational videos and easy ways to download them .</p>
+    
+<div id="programs">
+
+    
+    <div class="level">
+        <i>Level 2</i> 
+
+        <div class="signals">
+        <h4>Java LAB</h4>
+        <h4>Logic LAB</h4>
+        <h4>Circuits LAB</h4>
+        <h4>Electronics1 LAB</h4>
+        </div>
+
+    </div>
+    <div class="level">
+        <i>Level 3</i> 
+
+        <div class="signals">
+            <h4>Signals LAB  </h4>
+            <h4>LinearControlSystem LAB</h4>
+            <h4>DataBase LAB</h4>
+
+        </div>
+
+    </div>
+    <div class="level">
+        <i>Level 4</i> 
+
+        <div class="signals">
+            <h4>Assembly LAB</h4>
+            <h4>OS LAB</h4>
+            <h4>DataCom LAB</h4>
+
+        </div>
+
+
+    </div>
+
+    <div class="level">
+        <i>Level 5</i> 
+
+        <div class="signals">
+            <h4>web LAB</h4>
+
+
+        </div>
+
+</div>
+</div>
+
+
+<
+    <?php include('footer.html'); ?>
+
+</body>
+</html>
